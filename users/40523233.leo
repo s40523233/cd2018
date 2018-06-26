@@ -22,16 +22,16 @@
 <v t="yen.20170108171733.6"><vh>@edit local_publishconf.py</vh></v>
 <v t="yen.20170108171733.7"><vh>@edit pelicanconf.py</vh></v>
 </v>
-<v t="yen.20170224232341.1"><vh>編輯 template</vh>
-<v t="yen.20170224232341.2"><vh>@path theme/pelican-bootstrap3_local/templates</vh>
+<v t="yen.20170224232341.1" a="E"><vh>編輯 template</vh>
+<v t="yen.20170224232341.2" a="E"><vh>@path theme/pelican-bootstrap3_local/templates</vh>
 <v t="yen.20170224232341.3"><vh>@edit base.html</vh></v>
 </v>
 </v>
 <v t="yen.20170108171733.8" a="E"><vh>@clean index.html</vh>
-<v t="yen.20170108171733.9"><vh>html</vh>
+<v t="yen.20170108171733.9" a="E"><vh>html</vh>
 <v t="yen.20170108171733.10"><vh>head</vh></v>
-<v t="yen.20170108171733.11"><vh>body</vh>
-<v t="yen.20170108171733.12"><vh>reveal div</vh>
+<v t="yen.20170108171733.11" a="E"><vh>body</vh>
+<v t="yen.20170108171733.12" a="E"><vh>reveal div</vh>
 <v t="yen.20170108171733.13"><vh>slides div</vh>
 <v t="yen.20170108171733.14"><vh>封面投影片</vh>
 <v t="yen.20170108171733.15"><vh>封面投影片內容</vh></v>
@@ -46,6 +46,54 @@
 </v>
 </v>
 </v>
+</v>
+<v t="leo.20180626202916.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20180626202916.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20180626215911.1" a="E"><vh>W1</vh>
+<v t="leo.20180626215911.2"><vh>W1</vh></v>
+</v>
+<v t="leo.20180626215951.1" a="E"><vh>W2</vh>
+<v t="leo.20180626215951.2"><vh>W2</vh></v>
+</v>
+<v t="leo.20180626215946.1" a="E"><vh>W4</vh>
+<v t="leo.20180626215946.2"><vh>W4</vh></v>
+</v>
+<v t="leo.20180626215944.1" a="E"><vh>W5</vh>
+<v t="leo.20180626215944.2"><vh>W5</vh></v>
+</v>
+<v t="leo.20180626215941.1" a="E"><vh>W6</vh>
+<v t="leo.20180626215941.2"><vh>W6</vh></v>
+</v>
+<v t="leo.20180626215937.1" a="E"><vh>W7 期中報告</vh>
+<v t="leo.20180626215937.2"><vh>W7 期中報告</vh></v>
+</v>
+<v t="leo.20180626215933.1" a="E"><vh>W8</vh>
+<v t="leo.20180626215933.2"><vh>W8</vh></v>
+</v>
+<v t="leo.20180626215930.1"><vh>W9 自評成績</vh>
+<v t="leo.20180626215930.2"><vh>W9 自評成績</vh></v>
+</v>
+<v t="leo.20180626221815.1" a="E"><vh>W10</vh>
+<v t="leo.20180626221815.2"><vh>W10</vh></v>
+</v>
+<v t="leo.20180626203735.1" a="E"><vh>W11</vh>
+<v t="leo.20180626203735.2"><vh>W11</vh></v>
+</v>
+<v t="leo.20180626203745.1" a="E"><vh>W12</vh>
+<v t="leo.20180626203745.2"><vh>W12</vh></v>
+</v>
+<v t="leo.20180626203925.1" a="E"><vh>W14</vh>
+<v t="leo.20180626203925.2"><vh>W14</vh></v>
+</v>
+<v t="leo.20180626203929.1"><vh>W15</vh>
+<v t="leo.20180626203929.2"><vh>W15</vh></v>
+</v>
+<v t="leo.20180626215157.1" a="E"><vh>心得</vh>
+<v t="leo.20180626215157.2"><vh>心得</vh></v>
+</v>
+<v t="leo.20180626215201.1" a="E"><vh>期末自評成績</vh>
+<v t="leo.20180626215201.2"><vh>自評成績</vh></v>
 </v>
 </v>
 </v>
@@ -72,6 +120,171 @@
 @others
 &lt;/section&gt;
 </t>
+<t tx="leo.20180626202916.1">&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="leo.20180626202916.2">##2018SCD協同產品設計實習
+
+###虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [陳翰璋](http://chiamingyen.github.io/kmolab/blog/)
+&lt;/small&gt;
+[個人Vimeo](https://vimeo.com/home/myvidoes)
+[40523233](blog/index.html)
+[yuutobe](https://www.youtube.com/channel/UCZbq9JF5xLXoWeW-gpT7otg?view_as=subscriber)
+
+</t>
+<t tx="leo.20180626203735.1">&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="leo.20180626203735.2">##W11
+
+* 完成二連桿機構後每個人嘗試三連桿機構並拍影片
+* &lt;iframe width="640" height="360" src="https://www.youtube.com/embed/6H6uAhqlwjc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20180626203745.1">&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="leo.20180626203745.2">##W12
+
+* 在Github Pages 中繪製一個自選齒數的漸開線正齒輪輪 廓外型.
+* 繪製一組 50t 與 25t 的齒輪嚙合靜態輪廓圖.
+* 完成兩齒嚙合靜態繪圖後, 請嘗試轉為動態繪圖.
+
+[繪製靜態正齒輪](https://s40523233.github.io/cd2018/blog/hui-zhi-jing-tai-zheng-chi-lun.html)
+[繪製靜態組合正齒輪](https://s40523233.github.io/cd2018/blog/hui-zhi-jing-tai-zu-he-zheng-chi-lun.html)
+[繪製組合轉動正齒輪](https://s40523233.github.io/cd2018/blog/hui-zhi-zu-he-zhuan-dong-zheng-chi-lun.html)</t>
+<t tx="leo.20180626203925.1">&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="leo.20180626203925.2">##W14
+
+* 協同產品設計
+功不唐捐
+凡走過必留下痕跡
+設計是依連串問題解決的過程
+工程設計的結果應該是可以讓人依循
+且得到設計者所預期的結果
+協同是多人協力一同 試圖達到特定目標的作為
+&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/as-OyFf4CXU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20180626203929.1">&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="leo.20180626203929.2">##W15
+
+* 設定Pull Requests
+* Pull Requests的設定是將github上的倉儲跟偕同者合併,這樣就可以每個人做每個人的工作,就不會予有改檔案的情形
+* 1 提交至scrum-1/gitbook倉儲</t>
+<t tx="leo.20180626215157.1">&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="leo.20180626215157.2">##心得
+
+* </t>
+<t tx="leo.20180626215201.1">&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="leo.20180626215201.2">##自評成績
+
+* 60</t>
+<t tx="leo.20180626215911.1">&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="leo.20180626215911.2">##W1
+
+* 建立以學號為主要帳號內容的 Github 帳號.
+* 本學期的可攜隨身程式系統為kmol_level2 ，此後上課均以此一系統中的套件版本為主.</t>
+<t tx="leo.20180626215930.1">&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="leo.20180626215930.2">##W9 自評成績
+
+* 63</t>
+<t tx="leo.20180626215933.1">&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="leo.20180626215933.2">##W8
+
+* 利用pyslvs套件程式
+可以計算模擬出平面連桿機構的運作
+範例:平面四連桿提球機構範例一
+只需要給他轉動點就能使機構作動
+* Gitbook 如果要直接顯示影片的話需要先與Github同步,</t>
+<t tx="leo.20180626215937.1">&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="leo.20180626215937.2">##W7
+
+* 在 V-rep 模擬平台中, 展示各組所選定的鋼球運動系統，完成至少兩個週期的循環運動
+* 頂球機構的位移、速度與加速度分析, 手動運算是否與程式驗算或 V-rep 模擬相符
+* 組員的貢獻請各自使用學號登記下的 cd2018 倉儲展示</t>
+<t tx="leo.20180626215941.1">&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="leo.20180626215941.2">##W6
+
+*  清明放假</t>
+<t tx="leo.20180626215944.1">&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="leo.20180626215944.2">##W5
+
+* 利用 Python3 找出缺席名單</t>
+<t tx="leo.20180626215946.1">&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="leo.20180626215946.2">##W4
+
+*  在各自的分組倉儲中至少提供一則 mp4 簡報或操作流程示範影片, 說明該週的工作內容、進度與心得報告,
+* 並且將紙本筆記的內容整理到各組的 gitbook 線上報告中.</t>
+<t tx="leo.20180626215951.1">&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="leo.20180626215951.2">##W2
+
+* 在 fossil建立屬於自己得倉儲
+* 改變自己倉儲的時區
+* 從倉無連接自己的網誌連結</t>
+<t tx="leo.20180626221815.1">&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="leo.20180626221815.2">##W10
+
+* 兩段式六連桿提球機構設計與模擬
+* 在 W11 上課前, 必須拍攝利用此一雙階段提球機構, 將球送到各組目前既有的軌道模組循環運行至少兩次的模擬影片</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
