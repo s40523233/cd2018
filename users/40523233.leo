@@ -32,68 +32,56 @@
 <v t="yen.20170108171733.10"><vh>head</vh></v>
 <v t="yen.20170108171733.11" a="E"><vh>body</vh>
 <v t="yen.20170108171733.12" a="E"><vh>reveal div</vh>
-<v t="yen.20170108171733.13"><vh>slides div</vh>
-<v t="yen.20170108171733.14"><vh>封面投影片</vh>
+<v t="yen.20170108171733.13" a="E"><vh>slides div</vh>
+<v t="yen.20170108171733.14" a="E"><vh>封面投影片</vh>
 <v t="yen.20170108171733.15"><vh>封面投影片內容</vh></v>
 </v>
-<v t="yen.20170108171733.64"><vh>各式內容引用範例</vh></v>
-<v t="leo.20170622234235.1"><vh>newHeadline</vh>
-<v t="yen.20170108171733.67"><vh>導入縮排程式碼</vh>
-<v t="yen.20170108171733.69"><vh>導入影片</vh>
-<v t="yen.20170108171733.70"><vh>iframe 導入影片</vh></v>
-</v>
-<v t="leo.20170622234003.1"><vh>video</vh></v>
-</v>
-</v>
-</v>
-</v>
-<v t="leo.20180626202916.1" a="E"><vh>封面投影片</vh>
-<v t="leo.20180626202916.2"><vh>封面投影片內容</vh></v>
-</v>
-<v t="leo.20180626215911.1" a="E"><vh>W1</vh>
+<v t="leo.20180626215911.1"><vh>W1</vh>
 <v t="leo.20180626215911.2"><vh>W1</vh></v>
 </v>
-<v t="leo.20180626215951.1" a="E"><vh>W2</vh>
+<v t="leo.20180626215951.1"><vh>W2</vh>
 <v t="leo.20180626215951.2"><vh>W2</vh></v>
 </v>
-<v t="leo.20180626215946.1" a="E"><vh>W4</vh>
+<v t="leo.20180626215946.1"><vh>W4</vh>
 <v t="leo.20180626215946.2"><vh>W4</vh></v>
 </v>
-<v t="leo.20180626215944.1" a="E"><vh>W5</vh>
+<v t="leo.20180626215944.1"><vh>W5</vh>
 <v t="leo.20180626215944.2"><vh>W5</vh></v>
 </v>
-<v t="leo.20180626215941.1" a="E"><vh>W6</vh>
+<v t="leo.20180626215941.1"><vh>W6</vh>
 <v t="leo.20180626215941.2"><vh>W6</vh></v>
 </v>
-<v t="leo.20180626215937.1" a="E"><vh>W7 期中報告</vh>
+<v t="leo.20180626215937.1"><vh>W7 期中報告</vh>
 <v t="leo.20180626215937.2"><vh>W7 期中報告</vh></v>
 </v>
-<v t="leo.20180626215933.1" a="E"><vh>W8</vh>
+<v t="leo.20180626215933.1"><vh>W8</vh>
 <v t="leo.20180626215933.2"><vh>W8</vh></v>
 </v>
 <v t="leo.20180626215930.1"><vh>W9 自評成績</vh>
 <v t="leo.20180626215930.2"><vh>W9 自評成績</vh></v>
 </v>
-<v t="leo.20180626221815.1" a="E"><vh>W10</vh>
+<v t="leo.20180626221815.1"><vh>W10</vh>
 <v t="leo.20180626221815.2"><vh>W10</vh></v>
 </v>
-<v t="leo.20180626203735.1" a="E"><vh>W11</vh>
+<v t="leo.20180626203735.1"><vh>W11</vh>
 <v t="leo.20180626203735.2"><vh>W11</vh></v>
 </v>
-<v t="leo.20180626203745.1" a="E"><vh>W12</vh>
+<v t="leo.20180626203745.1"><vh>W12</vh>
 <v t="leo.20180626203745.2"><vh>W12</vh></v>
 </v>
-<v t="leo.20180626203925.1" a="E"><vh>W14</vh>
+<v t="leo.20180626203925.1"><vh>W14</vh>
 <v t="leo.20180626203925.2"><vh>W14</vh></v>
 </v>
 <v t="leo.20180626203929.1"><vh>W15</vh>
 <v t="leo.20180626203929.2"><vh>W15</vh></v>
 </v>
-<v t="leo.20180626215157.1" a="E"><vh>心得</vh>
+<v t="leo.20180626215157.1"><vh>心得</vh>
 <v t="leo.20180626215157.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20180626215201.1" a="E"><vh>期末自評成績</vh>
+<v t="leo.20180626215201.1"><vh>期末自評成績</vh>
 <v t="leo.20180626215201.2"><vh>自評成績</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -115,28 +103,6 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20170622224243.1"></t>
-<t tx="leo.20170622234003.1"></t>
-<t tx="leo.20170622234235.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-</t>
-<t tx="leo.20180626202916.1">&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-
-</t>
-<t tx="leo.20180626202916.2">##2018SCD協同產品設計實習
-
-###虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [陳翰璋](http://chiamingyen.github.io/kmolab/blog/)
-&lt;/small&gt;
-[個人Vimeo](https://vimeo.com/home/myvidoes)
-[40523233](blog/index.html)
-[yuutobe](https://www.youtube.com/channel/UCZbq9JF5xLXoWeW-gpT7otg?view_as=subscriber)
-
-</t>
 <t tx="leo.20180626203735.1">&lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -451,19 +417,16 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="yen.20170108171733.15">## 2018SCD 協同產品設計實習
+<t tx="yen.20170108171733.15">##2018SCD協同產品設計實習
 
-### 虎科大機械設計工程系
+###虎科大機械設計工程系
 
 &lt;small&gt;
 Created by [陳翰璋](http://chiamingyen.github.io/kmolab/blog/)
 &lt;/small&gt;
-
+[個人Vimeo](https://vimeo.com/home/myvidoes)
 [40523233](blog/index.html)
-
-
-    &lt;/script&gt;
-&lt;/section&gt;
+[yuutobe](https://www.youtube.com/channel/UCZbq9JF5xLXoWeW-gpT7otg?view_as=subscriber)
 
 </t>
 <t tx="yen.20170108171733.2">@language python
@@ -475,107 +438,6 @@ g.es("admin pelican 近端執行完畢")
 
 </t>
 <t tx="yen.20170108171733.5"></t>
-<t tx="yen.20170108171733.64">&lt;section&gt;
-&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-機械設計:設計士一種表達，寫在{設}說清楚意別人做甚麼
-表達方式:口語.文字.2D.實際.量化
-機:很多零件組合可精巧運作的器物
-械:在一定範圍內
-設:表達清楚
-計:經考量討論
-硬體.流體.軟體:最佳化
-    &lt;/script&gt;
-&lt;/section&gt;
-&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-DNS連接到mdecourse.github.io
-CNAM:代表別名
-https://[2001:288:6004:17::7}
-學校   2001"288"6004"17::7
-           2001:booo:168::1
-proxy[2001:288:6004:17::17]
-雲端特性:彈性(工具)
-Mbr(Master Boot Record)
-SSD 固態硬碟(不旋轉)
-SCSI：小型電腦介面
-RAID：容錯式磁碟陣列（RAID，獨立磁盤冗餘陣列）
-    &lt;/script&gt;
-&lt;/section&gt;
-&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-虛擬主機
-Oracle 公司:資料庫
-設定值:單一
-檔案喜好 設定:系統
-網路NAT(服務系統)
-1.NAT網路(虛擬主機可透NAT來連線)
-僅限主機網路
-設定值
-橋接介面卡(找NAT)(與外接IP一樣)
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-DNS連接到mdecourse.github.io
-CNAM:代表別名
-https://[2001:288:6004:17::7}
-學校   2001"288"6004"17::7
-           2001:booo:168::1
-proxy[2001:288:6004:17::17]
-雲端特性:彈性(工具)
-Mbr(Master Boot Record)
-SSD 固態硬碟(不旋轉)
-SCSI：小型電腦介面
-RAID：容錯式磁碟陣列（RAID，獨立磁盤冗餘陣列）
-    &lt;/script&gt;
-&lt;/section&gt;
-@others
-&lt;/section&gt;
-</t>
-<t tx="yen.20170108171733.67">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="yen.20170108171733.69">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-# 安裝使用Ubuntu
-
-&lt;iframe src="https://player.vimeo.com/video/214970970" width="640" height="385" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/214970970"&gt;2017-06-25_13-36-36&lt;/a&gt; from &lt;a href="https://vimeo.com/user65942712"&gt;林兆戎&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-</t>
-<t tx="yen.20170108171733.70">ipconfig/all
-ping 自己IP
-ping Gateway IP
-ping 外部 Gateway
-ping 外部 IP
-tracert 區域主要網站
-tracert 廣域網路主要網站
-fossil clone uri fossil-file
-fossil open
-fossil add
-</t>
 <t tx="yen.20170108171733.71"></t>
 <t tx="yen.20170108171733.8">@language xml
 @tabwidth -4
